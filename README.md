@@ -1,6 +1,6 @@
 This is the package that facilitate you with mulitple
 date related properties that you can use it in your code with ease.
-
+To install - npm i get-clock
 * How to use?
   1. const time = require('get-time');
   2. To have a running clock in your terminal call this function
